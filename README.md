@@ -17,11 +17,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/main/Testing_documentation/%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Ali.xlsx)
+- [Test-Suites and Test-Cases](https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/main/Testing_documentation/%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Ali.xlsx)
+- [Bug-Reports](https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/main/Testing_documentation/%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20Ali.xlsx)
+- [SQL Queries](https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/main/Testing_documentation/sql%20task%201%20HW.docx)
+- [Postman Collections](https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/main/Testing_documentation/Postman_collection.txt)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/archi1211)
