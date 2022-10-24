@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)]
 ## I'm a Junior QA Engineer and Interpreter
 ## My CV
 [Link to my CV](https://career.habr.com/archibol)
