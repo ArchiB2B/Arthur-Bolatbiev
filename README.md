@@ -1,5 +1,7 @@
-![Header](https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/ea41cf98b4d064843aae3565617ab1d6589b1e82/assets/my%20photo.png width="500")
-## I'm a Junior QA Engineer and Interpreter
+
+<img src="https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/ea41cf98b4d064843aae3565617ab1d6589b1e82/assets/my%20photo.png" width="400" height="500">
+
+## I'm a QA Engineer and Interpreter
 ## My CV
 [Link to my CV](https://career.habr.com/archibol)
 
@@ -14,6 +16,9 @@
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Insomnia-090909?style=for-the-badge&logo=insomnia&logoColor=blueviolet)
+![Header](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress&logoColor=grey)
+![Header](https://img.shields.io/badge/JS(basics)-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
 
 ### Testing Documentation
 
