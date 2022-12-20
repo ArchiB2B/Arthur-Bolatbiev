@@ -1,4 +1,4 @@
-![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)
+![Header](https://github.com/ArchiB2B/Arthur-Bolatbiev/blob/ea41cf98b4d064843aae3565617ab1d6589b1e82/assets/my%20photo.png)
 ## I'm a Junior QA Engineer and Interpreter
 ## My CV
 [Link to my CV](https://career.habr.com/archibol)
